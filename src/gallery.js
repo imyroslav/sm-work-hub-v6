@@ -7,21 +7,21 @@ preview:
 './img/preview-object-1.jpg',
 original:
 './img/original-object-1.jpg',
-description: 'Hokkaido Flower',
+description: 'Object-1',
 },
 {
 preview:
 './img/preview-object-2.jpg',
 original:
 './img/original-object-2.jpg',
-description: 'Container Haulage Freight',
+description: 'Object-2',
 },
 {
 preview:
 './img/preview-object-3.jpg',
 original:
 './img/original-object-3.jpg',
-description: 'Aerial Beach View',
+description: 'Object-3',
 },
 
 ];
