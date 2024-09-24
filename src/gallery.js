@@ -4,23 +4,23 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 const images = [
 {
 preview:
-'../public/preview-object-1.jpg',
+'./img/preview-object-1.jpg',
 original:
-'../public/original-object-1.jpg',
+'./img/original-object-1.jpg',
 description: 'Hokkaido Flower',
 },
 {
 preview:
-'../public/preview-object-2.jpg',
+'./img/preview-object-2.jpg',
 original:
-'../public/original-object-2.jpg',
+'./img/original-object-2.jpg',
 description: 'Container Haulage Freight',
 },
 {
 preview:
-'../public/preview-object-3.jpg',
+'./img/preview-object-3.jpg',
 original:
-'../public/original-object-3.jpg',
+'./img/original-object-3.jpg',
 description: 'Aerial Beach View',
 },
 
