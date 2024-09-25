@@ -4,24 +4,24 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 const images = [
 {
 preview:
-'./img/preview-object-1.jpg',
+'../src/img/preview-object-1.jpg',
 original:
-'./img/original-object-1.jpg',
-description: 'Object-1',
+'../src/img/original-object-1.jpg',
+description: 'Object-10',
 },
 {
 preview:
-'./img/preview-object-2.jpg',
+'../src/img/preview-object-2.jpg',
 original:
-'./img/original-object-2.jpg',
-description: 'Object-2',
+'../src/img/original-object-2.jpg',
+description: 'Object-20',
 },
 {
 preview:
-'./img/preview-object-3.jpg',
+'../src/img/preview-object-3.jpg',
 original:
-'./img/original-object-3.jpg',
-description: 'Object-3',
+'../src/img/original-object-3.jpg',
+description: 'Object-30',
 },
 
 ];
